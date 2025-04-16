@@ -10,3 +10,4 @@
 ![010](https://github.com/user-attachments/assets/8fade2c6-998c-4d53-ba42-e463f1f77940)
 
 
+[QT-CUSTOMER-MANAGER.exe.zip](https://github.com/user-attachments/files/19774100/QT-CUSTOMER-MANAGER_.zip)
