@@ -1,0 +1,9 @@
+C:/workspace/work/exercise_Qt/test_1/build/Qt_6_8_1_mingw_64-Release/CMakeFiles/test_1.dir
+C:/workspace/work/exercise_Qt/test_1/build/Qt_6_8_1_mingw_64-Release/CMakeFiles/edit_cache.dir
+C:/workspace/work/exercise_Qt/test_1/build/Qt_6_8_1_mingw_64-Release/CMakeFiles/rebuild_cache.dir
+C:/workspace/work/exercise_Qt/test_1/build/Qt_6_8_1_mingw_64-Release/CMakeFiles/list_install_components.dir
+C:/workspace/work/exercise_Qt/test_1/build/Qt_6_8_1_mingw_64-Release/CMakeFiles/install.dir
+C:/workspace/work/exercise_Qt/test_1/build/Qt_6_8_1_mingw_64-Release/CMakeFiles/install/local.dir
+C:/workspace/work/exercise_Qt/test_1/build/Qt_6_8_1_mingw_64-Release/CMakeFiles/install/strip.dir
+C:/workspace/work/exercise_Qt/test_1/build/Qt_6_8_1_mingw_64-Release/CMakeFiles/test_1_autogen_timestamp_deps.dir
+C:/workspace/work/exercise_Qt/test_1/build/Qt_6_8_1_mingw_64-Release/CMakeFiles/test_1_autogen.dir

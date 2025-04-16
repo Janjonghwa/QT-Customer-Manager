@@ -1,0 +1,34 @@
+{
+	"BUILD_DIR" : "C:/Users/parkj/Desktop/test_1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/test_1_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/parkj/Desktop/test_1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/parkj/Desktop/test_1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/parkj/Desktop/test_1",
+	"CMAKE_SOURCE_DIR" : "C:/Users/parkj/Desktop/test_1",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/parkj/Desktop/test_1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/test_1_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/parkj/Desktop/test_1/fonts/R.ttf",
+		"C:/Users/parkj/Desktop/test_1/icons/refresh.png",
+		"C:/Users/parkj/Desktop/test_1/icons/delete.png",
+		"C:/Users/parkj/Desktop/test_1/icons/search.png",
+		"C:/Users/parkj/Desktop/test_1/icons/blue_theme.png",
+		"C:/Users/parkj/Desktop/test_1/icons/dark_theme.png",
+		"C:/Users/parkj/Desktop/test_1/icons/logo.png",
+		"C:/Users/parkj/Desktop/test_1/icons/add.png",
+		"C:/Users/parkj/Desktop/test_1/icons/green_theme.png",
+		"C:/Users/parkj/Desktop/test_1/icons/edit.png"
+	],
+	"LOCK_FILE" : "C:/Users/parkj/Desktop/test_1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/test_1_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.9.0/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/parkj/Desktop/test_1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/test_1_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/parkj/Desktop/test_1/resource.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

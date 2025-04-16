@@ -1,0 +1,20 @@
+# ninja log v6
+9	1144	7664869436046179	test_1_autogen/timestamp	a5732cfadf715fff
+9	1144	7664869436046179	test_1_autogen/mocs_compilation.cpp	a5732cfadf715fff
+9	1144	7664869436046179	C:/Users/parkj/Desktop/test_1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/test_1_autogen/timestamp	a5732cfadf715fff
+9	1144	7664869436046179	C:/Users/parkj/Desktop/test_1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/test_1_autogen/mocs_compilation.cpp	a5732cfadf715fff
+1149	1274	7664869437953121	test_1_autogen/EWIEGA46WW/qrc_resource.cpp	bd8c6b8d73a9839b
+1149	1274	7664869437953121	C:/Users/parkj/Desktop/test_1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/test_1_autogen/EWIEGA46WW/qrc_resource.cpp	bd8c6b8d73a9839b
+1285	4730	7664869438161973	CMakeFiles/test_1.dir/model.cpp.obj	725172ea353482e
+1288	5588	7664869438191957	CMakeFiles/test_1.dir/customer_buttons.cpp.obj	b09242573e3b9ee6
+1278	5597	7664869438097434	CMakeFiles/test_1.dir/main.cpp.obj	ca79a739ae9c6842
+1274	5616	7664869438060836	CMakeFiles/test_1.dir/test_1_autogen/mocs_compilation.cpp.obj	d59fc05f820f4f20
+1295	5668	7664869438268740	CMakeFiles/test_1.dir/customer_manage.cpp.obj	a9892383c3a1304c
+1298	5675	7664869438302758	CMakeFiles/test_1.dir/customer_search.cpp.obj	588f074ffbeb0779
+1301	5692	7664869438326004	CMakeFiles/test_1.dir/customer_sort.cpp.obj	dee7312e358cd341
+1291	5693	7664869438226287	CMakeFiles/test_1.dir/customer_dialog.cpp.obj	6c192c6f12cc88ed
+1281	5939	7664869438127739	CMakeFiles/test_1.dir/widget.cpp.obj	91a9431346247f20
+1305	6040	7664869438366095	CMakeFiles/test_1.dir/customer_table.cpp.obj	27a7622422621a99
+5588	7023	7664869481189704	CMakeFiles/test_1.dir/test_1_autogen/EWIEGA46WW/qrc_resource.cpp.obj	dad6201f26b2c32d
+4730	8665	7664869472624206	CMakeFiles/test_1.dir/customer_save.cpp.obj	1d385960ad755cda
+8665	9300	7664869511964100	test_1.exe	aeb08e4f185efbb3

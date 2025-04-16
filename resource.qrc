@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/add.png</file>
+        <file>icons/blue_theme.png</file>
+        <file>icons/dark_theme.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/edit.png</file>
+        <file>icons/green_theme.png</file>
+        <file>icons/logo.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/search.png</file>
+        <file>fonts/R.ttf</file>
+    </qresource>
+</RCC>

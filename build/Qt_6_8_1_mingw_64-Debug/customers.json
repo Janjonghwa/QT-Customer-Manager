@@ -1,0 +1,44 @@
+{
+    "customers": [
+        {
+            "age": 25,
+            "category": "VIP",
+            "gender": "남성",
+            "name": "요시",
+            "note": "매우 귀여움",
+            "phone": "010-1111-2222"
+        },
+        {
+            "age": 22,
+            "category": "신규회원",
+            "gender": "남성",
+            "name": "쿠파",
+            "note": "강한 상남자",
+            "phone": "010-9999-0000"
+        },
+        {
+            "age": 1,
+            "category": "일반회원",
+            "gender": "남성",
+            "name": "박귀현",
+            "note": "학생",
+            "phone": "010-2282-2813"
+        },
+        {
+            "age": 5,
+            "category": "VIP",
+            "gender": "남성",
+            "name": "박종하",
+            "note": "ㅂㅈㄷㄱ",
+            "phone": "010-4567-8912"
+        },
+        {
+            "age": 1,
+            "category": "VIP",
+            "gender": "남성",
+            "name": "qwerwq",
+            "note": "poi",
+            "phone": "789-4561-2322"
+        }
+    ]
+}
