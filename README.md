@@ -1,3 +1,7 @@
+[QT-CUSTOMER-MANAGER.exe.zip](https://github.com/user-attachments/files/19774100/QT-CUSTOMER-MANAGER_.zip)
+
+
+
 ![001](https://github.com/user-attachments/assets/645fab56-4866-453f-9545-5eda0867fb71)
 ![002](https://github.com/user-attachments/assets/5194ab39-2e17-40e9-9e07-480264dab9bc)
 ![003](https://github.com/user-attachments/assets/adca27a2-191f-46bf-9a05-c5251a7e5616)
@@ -10,4 +14,4 @@
 ![010](https://github.com/user-attachments/assets/8fade2c6-998c-4d53-ba42-e463f1f77940)
 
 
-[QT-CUSTOMER-MANAGER.exe.zip](https://github.com/user-attachments/files/19774100/QT-CUSTOMER-MANAGER_.zip)
+
